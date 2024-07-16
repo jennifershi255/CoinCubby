@@ -1,0 +1,2 @@
+# CoinCubby
+A virtual piggybank
