@@ -1,2 +1,2 @@
-# CoinCubby
-A virtual piggybank
+# CoinCubby 🐷💰
+ CoinCubby is a program designed to simulate a digital piggy bank, where users can deposit and withdraw money. This program allows users to perform various operations such as adding money to the piggy bank, withdrawing money from the piggy bank, and checking their balance. Users can create multiple piggy banks to organize their earnings and easily compare the data across different banks.
